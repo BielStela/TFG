@@ -3,8 +3,7 @@ En aquest espai podeu triobar la documentació extra del treball de fi de grau d
 
 L'anex consta de documentació extra de paràmetres del programa de random forest Pixit i enllaços a altres algoritmes i programes fets al llarg del projecte.
 ### Documentació dels paràmetres del Pixit
-
-
+[Pixit paremeters](pixit_description.pdf)
 ### Enllaços
 
 
