@@ -6,5 +6,7 @@ L'anex consta de documentació extra de paràmetres del programa de random fores
 [Pixit paremeters](pixit_description.pdf)
 ### Enllaços
 
+[Algoritme de python per EFD](https://github.com/BielStela/Elliptic-Fourier-Python)
 
+[Llibreria de R per a la generació de descriptors EFD i anàlisis de contorns (sota desenvolupament, previsió de publicar-la)](https://github.com/BielStela/VisioBioShapeR)
 
